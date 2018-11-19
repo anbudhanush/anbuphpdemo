@@ -1,6 +1,6 @@
->?php
+<?php
 
-$data = ("$structure=new stdClass;
+$data = array($structure=new stdClass;
 $structure->children=array();
 $structure->rowid='672692'; 
 $structure->title='Section Title 4.4.4';
@@ -86,7 +86,7 @@ $structure->authorcomments=0;
 $structure->editorcomments=0;
 $structure->olinksections=array();
 $structure->ipud=array();
-");
+);
 
 $json=(json_encode($data);
 echo $json;
