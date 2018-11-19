@@ -91,5 +91,5 @@ $structure->ipud=array();
 //echo $json;
 
 foreach( $structure as $key => $value ){
-    echo $key."\t=>\t".$value."\n";
+echo $key."\t=>\t".$value."\n";}
 ?>
