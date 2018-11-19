@@ -6,7 +6,7 @@ $raw_text = fread($file,filesize("sampleobjects.txt"));
 
 	
 foreach ($raw_text as $item) {
-   $json =	json_encode($item, true); 
+   $json =	json_encode($item); 
 }
 
 //print_r(htmlspecialchars($json));
