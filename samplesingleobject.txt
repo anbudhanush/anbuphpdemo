@@ -1,0 +1,87 @@
+$structure=new stdClass;
+$structure->children=array();
+$structure->rowid='672692'; 
+$structure->title='Section Title 4.4.4';
+$structure->level='0';
+$structure->course='Dummy Course';
+$structure->websites='';
+$structure->lang='';
+$structure->copyright='';
+$structure->children[]=(object)array('id'=>22775381,
+									'title'=>'4.4.4 Subsection Level I',
+									'level'=>'1',
+									'number'=>'1',
+						'children'=>array(
+						(object)array('id'=>22775382,
+											'title'=>'4.4.4.1 Subsection A',
+											'level'=>'2',
+											'number'=>'1.1',
+											'children'=>array()),
+						(object)array('id'=>22775383,
+											'title'=>'4.4.4.2 Subsection B',
+											'level'=>'2',
+											'number'=>'1.2',
+											'children'=>array()),
+						(object)array('id'=>22775384,
+											'title'=>'4.4.4.3 Subsection C',
+											'level'=>'2',
+											'number'=>'1.3',
+											'children'=>array()),
+						(object)array('id'=>22775385,
+											'title'=>'4.4.4.4 Subsection D',
+											'level'=>'2',
+											'number'=>'1.4',
+						'children'=>array()),
+						(object)array('id'=>22775386,
+											'title'=>'4.4.4.5 Subsection E',
+											'level'=>'2',
+											'number'=>'1.5',
+						'children'=>array()),
+						(object)array('id'=>22775387,
+											'title'=>'4.4.4.6 Subsection F',
+											'level'=>'2','number'=>'1.6',
+											'children'=>array()),
+						(object)array('id'=>22775388,
+											'title'=>'4.4.4.7 Subsection G',
+											'level'=>'2',
+											'number'=>'1.7',
+						'children'=>array()),
+						(object)array('id'=>22775389,
+											'title'=>'4.4.4.8 Subsection H',
+											'level'=>'2',
+											'number'=>'1.8',
+						'children'=>array()),
+						(object)array('id'=>22775390,
+											'title'=>'4.4.4.9 Subsection I',
+											'level'=>'2',
+											'number'=>'1.9',
+						'children'=>array()),
+						(object)array('id'=>22775391,
+											'title'=>'4.4.4.10 Subsection J',
+											'level'=>'2',
+											'number'=>'1.10',
+						'children'=>array()
+						)));
+$structure->children[]=(object)array(
+									'id'=>22775392,
+									'title'=>'4.4.5 Subsection Level II',
+									'level'=>'1',
+									'number'=>'2',
+						'children'=>array
+						(
+						(
+						object)array(
+									'id'=>22775393,
+									'title'=>'4.4.5.1 Subsection Level A',
+									'level'=>'2',
+									'number'=>'2.1',
+						'children'=>array()
+						)
+						)
+						);
+$structure->warnings=0;
+$structure->authorcomments=0;
+$structure->editorcomments=0;
+$structure->olinksections=array();
+$structure->ipud=array();
+
